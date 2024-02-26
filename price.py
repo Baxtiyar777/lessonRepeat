@@ -7,7 +7,3 @@ def discount(price,discount):
         print(price_width_discount)
 
 discount(100,101)
-discount(100,20)
-discount(100,15)
-discount(100,32)
-discount(100,15)
